@@ -10,7 +10,7 @@
 	.st4{display:none;fill:#6B3792;}
 	.st5{fill:#6B3792;}
 
-	<!-- .lid {
+	.lid {
 	  -webkit-animation: blink 2.4s infinite;
 	          animation: blink 2.4s infinite;
 	}
@@ -48,7 +48,7 @@
 	            animation-timing-function: ease-out;
 	  }
 	}
-	 -->
+
 
 </style>
 <g id="Calque_3" class="st0">
